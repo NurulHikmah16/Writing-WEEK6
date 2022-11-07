@@ -1,4 +1,4 @@
-# WEEK 5 (Writting Back-End Development WEEK 2)
+# WEEK 6 (Writting Back-End Development WEEK 2)
 
 ## Nurul Hikmah Rafika Dewi || Back-End
 
